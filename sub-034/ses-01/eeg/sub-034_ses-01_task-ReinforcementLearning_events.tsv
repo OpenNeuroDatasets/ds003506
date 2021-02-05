@@ -1,0 +1,346 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+213.3780000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+214.9180000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+216.0600000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+216.8900000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+219.2460000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+220.7860000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+222.3560000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+223.1640000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+225.5160000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+227.0420000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+229.4120000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+230.2200000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+232.5720000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+234.0920000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+235.5400000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+236.3600000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+238.7100000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+240.2820000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+241.0960000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+241.9120000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+244.2640000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+245.7840000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+246.5840000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+247.4000000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+309.1980000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+310.7140000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+312.4240000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+313.2340000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+315.5860000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+317.1560000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+318.5680000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+319.3720000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+321.7240000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+323.2620000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+324.1780000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+324.9920000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+327.3440000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+328.8060000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+330.4620000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+331.2800000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+333.6320000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+335.1760000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+335.9820000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+336.8020000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+339.1540000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+340.5840000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+341.9820000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+342.7900000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+345.1420000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+346.6600000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+347.4500000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+348.2600000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+350.6120000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+352.0740000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+353.0020000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+353.8140000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+356.1660000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+357.6960000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+358.7100000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+359.5200000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+361.8700000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+363.3320000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+364.8780000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+365.6900000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+368.0420000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+369.4800000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+370.2220000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+371.0280000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+373.3800000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+374.7800000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+375.8740000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+376.6820000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+379.0340000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+380.5240000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+381.6380000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+382.4540000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+384.8060000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+386.2340000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+387.0020000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+387.8080000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+390.1600000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+391.7340000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+393.3780000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+394.1960000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+396.5480000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+397.9980000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+399.4260000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+400.2340000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+402.5860000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+404.1080000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+404.8780000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+405.6880000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+408.0400000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+409.5640000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+410.8140000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+411.6260000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+413.9780000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+415.5000000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+417.0900000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+417.8980000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+420.2480000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+421.8460000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+422.6220000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+423.4340000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+425.7860000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+427.1980000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+427.8300000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+428.6380000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+430.9900000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+432.5080000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+433.3060000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+434.1100000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+436.4620000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+437.9920000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+439.1580000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+439.9640000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+442.3160000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+443.8140000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+444.6420000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+445.4520000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+447.8040000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+449.3880000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+450.3820000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+451.1900000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+453.5420000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+455.0900000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+455.8580000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+456.6600000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+459.0120000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+460.5800000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+461.8460000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+462.6480000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+465.0000000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+466.4660000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+467.2340000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+468.0520000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+470.4040000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+471.9760000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+473.1900000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+474.0060000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+476.3580000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+477.8260000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+479.1380000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+479.9440000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+482.2960000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+483.8500000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+484.5080000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+485.3160000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+487.6680000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+489.1620000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+490.0560000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+490.8700000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+493.2220000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+494.7000000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+496.2000000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+497.0080000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+499.3600000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+500.9340000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+501.5840000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+502.3960000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+504.7480000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+506.2720000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+507.9880000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+508.8000000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+511.1520000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+512.7300000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+513.9480000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+514.7540000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+517.1060000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+518.5500000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+519.2680000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+520.0760000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+522.4280000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+523.8520000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+525.8640000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+526.6800000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+529.0320000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+530.5420000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+531.2040000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+532.0180000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+534.3700000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+535.9680000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+536.7960000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+537.6060000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+543.0440000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+544.5640000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+545.9320000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+546.7460000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+549.0980000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+550.6880000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+551.2480000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+552.0660000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+554.4180000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+555.9240000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+557.2600000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+558.0720000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+560.4240000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+561.8960000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+562.6280000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+563.4420000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+565.7940000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+567.2740000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+568.3840000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+569.1960000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+571.5480000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+573.0000000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+573.6720000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+574.4840000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+576.8360000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+578.3220000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+579.6960000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+580.5060000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+582.8560000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+584.4300000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+585.4840000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+586.2920000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+588.6440000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+590.1900000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+590.7960000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+591.6140000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+593.9660000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+595.4280000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+596.1640000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+596.9680000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+599.3200000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+600.7560000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+601.6840000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+602.4880000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+604.8400000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+606.3960000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+608.3520000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+609.1600000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+611.5120000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+613.0420000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+613.7560000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+614.5640000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+616.9160000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+618.3260000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+619.5600000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+620.3680000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+622.7200000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+624.3160000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+624.9360000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+625.7400000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+628.0920000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+629.6460000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+632.7720000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+633.5800000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+635.9300000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+637.3500000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+638.0060000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+638.8160000000	n/a	n/a	FB: 0	n/a	n/a	S 10
+641.1680000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+642.6580000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+643.4420000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+644.2540000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+646.6060000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+648.1740000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+649.3940000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+650.2080000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+652.5600000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+653.9800000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+655.8540000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+656.6640000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+659.0160000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+660.5920000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+661.3820000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+662.2020000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+664.5520000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+665.9820000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+666.6380000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+667.4540000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+669.8060000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+671.3500000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+672.0340000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+672.8420000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+675.1940000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+676.6360000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+678.2540000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+679.0640000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+681.4160000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+682.8660000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+683.6700000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+684.4840000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+686.8360000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+688.2520000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+689.1580000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+689.9720000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+692.3240000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+693.8260000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+694.6100000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+695.4260000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+697.7780000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+699.2100000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+699.8220000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+700.6300000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+702.9820000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+704.5620000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+706.3900000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+707.2020000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+709.5540000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+711.0380000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+712.8700000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+713.6740000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+716.0260000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+717.5880000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+718.4980000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+719.3120000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+721.6640000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+723.1420000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+724.4300000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+725.2500000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+727.6020000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+729.0280000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+729.8620000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+730.6700000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+733.0220000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+734.4520000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+735.1780000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+735.9900000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+738.3420000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+739.7480000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+740.5340000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+741.3440000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+743.6960000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+745.2460000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+745.9700000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+746.7820000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+749.1340000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+750.6380000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+752.2460000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+753.0540000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+755.4060000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+756.8180000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+757.7300000000	n/a	n/a	Left Button Choice	n/a	n/a	S  4
+758.5420000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+760.8940000000	n/a	n/a	Instr: "Choose"	n/a	n/a	S  1
+762.4220000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+763.3620000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+764.1780000000	n/a	n/a	FB: +1	n/a	n/a	S 11
+766.5300000000	n/a	n/a	Instr: "Match"	n/a	n/a	S  2
+767.9380000000	n/a	n/a	Imperative Stimulus	n/a	n/a	S  3
+768.7220000000	n/a	n/a	Right Button Choice	n/a	n/a	S  5
+769.5340000000	n/a	n/a	FB: +1	n/a	n/a	S 11

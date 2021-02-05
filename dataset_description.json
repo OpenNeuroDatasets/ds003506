@@ -1,0 +1,10 @@
+{
+  "Name": "ReinforcementLearning",
+  "ReferencesAndLinks": ["PMID: 31704082"],
+  "Authors": [
+    "James F Cavanagh",
+    "Darin Brown"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
